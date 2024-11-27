@@ -18,7 +18,7 @@ To install the necessary packages, please run the following command in your term
     ```
 
 2. Ensure the model checkpoint is in the `checkpoints/` directory:
-    - Download the checkpoint from the provided [link](https://drive.google.com/file/d/1WIYaL4M0VQyl_qUcUrsuSu5QzgQcYo6G/view?usp=sharing).
+    - Download the checkpoint from the provided [link](https://drive.google.com/file/d/1SQmjSYBMkFckl9X9VKhzDWGCmSfIEnzV/view?usp=sharing).
     - Place the `best_model.pth.tar` file in the `checkpoints/` directory of this repository.
 
 3. Run the inference script:
